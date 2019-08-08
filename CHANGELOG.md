@@ -10,4 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Only the package structure. 
 
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.2
+[0.0.2]: https://github.com/NunoMCSilva/example/releases/tag/v0.0.2
