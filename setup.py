@@ -8,7 +8,7 @@ def read(fname: str) -> str:
 
 setuptools.setup(
     name="example2-pkg-blackcat",
-    version="0.0.1",
+    version="0.0.2",
     author="Nuno Miguel Casteloa da Silva",
     author_email="NunoMCSilva@gmail.com",
     description="A small example package",
