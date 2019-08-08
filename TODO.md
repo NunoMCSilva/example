@@ -5,6 +5,10 @@ All ideas for future development will be written in this file.
 - add primes module.
 - add fibonacci module.
 
+## Tests
+- add test_primes.
+- add test_fibonacci. 
+
 ## Testing
 - add tox.
 - add pytest.
